@@ -23,7 +23,11 @@ environment:
 
 Guides
 https://stackoverflow.com/questions/63711263/how-to-show-laravel-home-page-in-docker-using-jwilder-whoami
+
 https://github.com/aschmelyun/docker-compose-laravel
+
 https://francoisromain.medium.com/getting-started-with-docker-for-local-node-js-development-192ceca18781
+
 https://francoisromain.medium.com/set-a-local-web-development-environment-with-custom-urls-and-https-3fbe91d2eaf0
+
 https://danielstoyanoff.medium.com/create-friendly-urls-for-your-local-dockers-3b35f676c341
